@@ -16,6 +16,8 @@ def change
     t.string :url
     t.integer :size
     t.timestamps
+  end
+end
 end
 
 end
